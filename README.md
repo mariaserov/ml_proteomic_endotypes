@@ -29,3 +29,4 @@ A multi-step analytical pipeline was applied to proteomic data from 29,672 hyper
 - Prediction models showed incremental improvements in AUC when incorporating endotype information, particularly for peripheral arterial disease and aortic aneurysm.
 
 ![](readme_figure.png)
+![](readme_figure2.png)
