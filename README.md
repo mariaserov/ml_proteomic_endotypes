@@ -28,4 +28,4 @@ A multi-step analytical pipeline was applied to proteomic data from 29,672 hyper
 - Endotype 1, by contrast, showed a protective profile: reduced odds across all outcomes, lower inflammatory signalling, and a balanced cytokine profile. It was was associated with moderate/rare alcohol use and greater physical activity
 - Prediction models showed incremental improvements in AUC when incorporating endotype information, particularly for peripheral arterial disease and aortic aneurysm.
 
-!()[readme_figure.png]
+![](readme_figure.png)
